@@ -16,7 +16,7 @@
   "global": "true",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stephen/airsonos.git"
+    "url": "https://github.com/horvath/airsonos.git"
   },
   "dependencies": {
     "sonos": "0.6.1",
